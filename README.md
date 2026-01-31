@@ -23,4 +23,4 @@ pyinstaller -F MontyHall.py
 (this option is also for anyone that doesn't trust executables from some git.)
 
 ## License:
-MIT License ([See here](https://github.com/chrisROct/mastermind-python/blob/main/LICENSE))
+MIT License ([See here](https://github.com/chrisROct/monty-hall-python/blob/main/LICENSE))
